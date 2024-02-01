@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\kuro\SW_Battlefront\Weapons\E5/t_e5_cs"
+	"$bumpmap" "models\kuro\SW_Battlefront\Weapons\E5/t_e5_nm"
+	"$color2"	"[1 1 1]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture"	"models\kuro\SW_Battlefront\Weapons\E5/t_e5_exp"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+}

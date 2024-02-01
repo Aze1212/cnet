@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\kuro\SW_Battlefront\Weapons\BF1\SE14C/t_se14c_c"
+	"$bumpmap" "models\kuro\SW_Battlefront\Weapons\BF1\SE14C/t_se14c_nw"
+	"$color2"	"[0.4 0.4 0.4]"
+	"$blendTintByBaseAlpha"	"1"
+	
+	"$phongexponenttexture"	"models\kuro\SW_Battlefront\Weapons\BF1\SE14C/t_se14c_exp"
+	"$phongexponent" "256" 	
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"1.73216145"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+}

@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/epilepsy"
+
+	// light in the dark 
+  	$selfillum 1
+    	$selfillummask "z_easyskins/camo/epilepsy"
+
+	//make the texture more detailed
+	$detail "z_easyskins/camo/epilepsy"
+	$detailscale "7"
+	$detailblendmode "0"
+	$detailblendfactor "0.9"
+
+	// small reflection
+	$reflectivity "[1 1 1]"
+
+                     "Proxies"
+             		  {
+   	   	"AnimatedTexture"
+    		  {
+     		    "animatedtexturevar" "$basetexture"
+      		    "animatedtextureframenumvar" "$frame"
+         		    "animatedtextureframerate" "15"
+     		  }
+  	 }
+	
+}

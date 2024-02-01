@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\kuro\SW_Battlefront\Weapons\RG4D/t_scopelens_01_c"
+	"$bumpmap"    "models\kuro\SW_Battlefront\Weapons\RG4D\t_scopelens_01_n"
+"$phongexponent" "5"
+    "$phongalbedotint" 0
+    "$phong" "1"
+    "$phongboost"    "0.2"
+    "$phongfresnelranges"    "[1 1.05 1.25]"
+	"$phongexponenttexture" "models\kuro\SW_Battlefront\shared/grn"
+}
+
+

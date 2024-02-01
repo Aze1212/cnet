@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/ghost"
+	
+	// make the texture more detailed
+	$detail "z_easyskins/camo/ghost"
+	$detailtexturetransform "1 1"
+	$detailscale "15"
+	$detailblendmode "2"
+	$detailblendfactor "0.9"
+		
+}

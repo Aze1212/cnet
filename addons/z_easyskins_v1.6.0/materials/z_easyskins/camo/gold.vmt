@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/gold"
+
+	// make the texture more detailed
+	$detail "z_easyskins/camo/gold"
+	$detailtexturetransform "1 1"
+	$detailscale "24"
+	$detailblendmode "2"
+	$detailblendfactor "1"
+
+	// let da gold reflect they said
+	$reflectivity "[1 1 1]"
+	$phong "1"
+	$bumpmap "z_easyskins/camo/gold"
+	$phongboost "1"
+                $phongtint "[1 0.93 0.39]"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/blitz"
+	$basetexturetransform "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+
+	//make the texture more detailed
+	$detail "z_easyskins/camo/blitz"
+	$detailscale "4"
+	$detailblendmode "0"
+	$detailblendfactor "0.9"
+}

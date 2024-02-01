@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/dayofdead"
+	$basetexturetransform "center 0 0 scale 4 4 rotate 0 translate 0 0"
+
+	// light in the dark 
+  	//$selfillum 1
+    	//$selfillummask "z_easyskins/camo/dayofdead"
+
+	//make the texture more detailed
+	$detail "z_easyskins/camo/dayofdead"
+	$detailscale "4"
+	$detailblendmode "6"
+	$detailblendfactor "1"
+
+}

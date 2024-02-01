@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/weed"
+	$basetexturetransform "center .5 .5 scale 3 3 rotate 0 translate 0 0"
+	
+	// light in the dark 
+  	//$selfillum 1
+    	//$selfillummask "camo/vtf/weed"
+
+	//make the texture more detailed + glow in dark
+	$detail "z_easyskins/camo/weed"
+	$detailscale "3"
+	$detailblendmode "6"
+	$detailblendfactor "0.9"
+
+}

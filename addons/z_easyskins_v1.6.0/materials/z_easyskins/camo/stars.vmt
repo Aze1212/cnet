@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/stars"
+	$basetexturetransform "center .5 .5 scale 5 5 rotate 0 translate 0 0"
+
+	//make the texture more detailed
+	$detail "z_easyskins/camo/stars"
+	$detailscale "5"
+	$detailblendmode "6"
+	$detailblendfactor "1"
+
+	// small reflection
+	$reflectivity "[1 1 1]"
+
+                     "Proxies"
+             		  {
+   	   	"AnimatedTexture"
+    		  {
+     		    "animatedtexturevar" "$detail"
+      		    "animatedtextureframenumvar" "$detailframe"
+         		    "animatedtextureframerate" "2"
+     		  }
+  	 }
+	
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/vgui/red"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

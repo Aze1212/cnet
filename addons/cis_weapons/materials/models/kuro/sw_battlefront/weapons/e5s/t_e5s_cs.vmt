@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\kuro\SW_Battlefront\Weapons\E5S/t_e5s_cs"
+	"$bumpmap" "models\kuro\SW_Battlefront\Weapons\E5S/t_e5s_n"
+	"$color2"	"[0.8 0.8 0.8]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture"	"models\kuro\SW_Battlefront\Weapons\E5S/t_e5s_exp"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+
+	"$emissiveBlendEnabled" "1"
+	"$emissiveBlendTexture"	"models\kuro\SW_Battlefront\shared/null"
+	"$emissiveBlendBaseTexture"	"models\kuro\SW_Battlefront\Weapons\E5S/t_e5s_emis"
+	"$emissiveBlendFlowTexture"	"models\kuro\SW_Battlefront\shared/null"
+	"$emissiveBlendTint" "[1 1 1]"
+	"$emissiveBlendStrength" "1"
+	"$emissiveBlendScrollVector" "[0 0]"
+}

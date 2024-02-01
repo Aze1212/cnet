@@ -1,0 +1,5 @@
+-- [[ CREATED BY ZOMBIE EXTINGUISHER ]]
+
+function SH_EASYSKINS.IsDonator(ply)
+	return SH_EASYSKINS.IsPlayerInSettingsTbl(SH_EASYSKINS.SETTINGS.DONATORS, ply)
+end

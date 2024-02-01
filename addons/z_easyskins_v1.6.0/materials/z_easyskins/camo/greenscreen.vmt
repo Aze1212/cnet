@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "z_easyskins/camo/greenscreen"
+	$selfillum 1
+}

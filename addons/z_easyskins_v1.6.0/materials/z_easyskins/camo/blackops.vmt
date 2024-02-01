@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "z_easyskins/camo/blackops"
+	
+	// make the texture more detailed
+	$detail "z_easyskins/camo/blackops"
+	$detailscale "7"
+	$detailblendmode "2"
+	$detailblendfactor "0.9"
+		
+}
